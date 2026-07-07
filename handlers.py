@@ -9,7 +9,7 @@ from keyboards import main_menu, product_nav
 router = Router()
 
 
-# Загружаем товары
+
 with open(
     "products.json",
     "r",
@@ -18,7 +18,7 @@ with open(
     products = json.load(file)
 
 
-# Запоминаем, какой товар смотрит пользователь
+
 user_index = {}
 
 
