@@ -1,1 +1,1 @@
-TOKEN="ххххх"
+TOKEN="YOUR Token"
