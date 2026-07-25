@@ -10,15 +10,13 @@ The bot provides a simple way to manage products and communicate with customers 
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/start_menu.png" width="250">
-  <img src="screenshots/products.png" width="250">
-  <img src="screenshots/buy.png" width="250">
-</p>
+![Start Menu](screenshots/start_menu.png)
 
-<p align="center">
-  <img src="screenshots/oth.png" width="250">
-</p>
+![Products](screenshots/products.png)
+
+![Buy](screenshots/buy.png)
+
+![Other](screenshots/oth.png)
 
 - 🛍 View available products
 - 📦 Product information and prices
